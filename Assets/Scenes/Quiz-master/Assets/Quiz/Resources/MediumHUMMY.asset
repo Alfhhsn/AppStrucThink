@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: MediumHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Medium
+  questions:
+  - questionInfo: Terdapat 12 tempat untuk parkir mobil di area parkir. Setiap tempat
+      diberi nomor. Gambar di atas menunjukkan kondisi area parkir setiap hari Senin
+      dan hari Selasa.    Berapa banyak tempat parkir yang tidak pernah terisi mobil
+      pada hari Senin maupun hari Selasa?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 063ae1eb70f82864684c8dea19a44262, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 3
+    - 4
+    - 5
+    - 6
+    correctAns: 4
+  - questionInfo: Tupai kecil sedang merayakan ulang tahun dengan kue ulang tahun.
+      Lilin angka digunakan dengan kode, yaitu lilin menyala = 1 dan lilin mati =
+      0. Berapakah usia tupai tahun ini?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 70fc060a6456f2e4e9e636356923d834, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 3
+    - 6
+    - 12
+    - 9
+    correctAns: 12
+  - questionInfo: Brandon menggulirkan dadu sepanjang jalan tanpa pergeseran, tiga
+      kali ke arah belakang dan dua kali berikutnya ke kanan (berhenti di kotak bertanda
+      lingkaran putih).  Permukaan dengan angka berapakah yang menghadap ke atas?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3743c191e9a30e84c85248857345d691, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1
+    - 3
+    - 5
+    - 6
+    correctAns: 5
+  - questionInfo: Berang-berang menanam bunga dalam 3 barisan, di setiap barisan
+      ada 4 bunga. Bunda berang-berang ingin agar bunga putih lebih dekat ke pagar
+      daripada bunga biru. Baris mana yang memenuhi keinginan bunda berang-berang?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9993e1ec656983a4dad1137ba4c35a6a, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Baris 1 saja
+    - Baris 1 dan 2
+    - Baris 1 dan 3
+    - Semua barisan
+    correctAns: Baris 1 dan 3
+  - questionInfo: Sebuah kata ajaib disimpan dalam sebuah kotak rahasia. Setiap huruf
+      di kode menjadi sebuah angka sesuai urutan abjad, seperti A = 1, B = 2, C =
+      3, dan seterusnya. Hasil kodenya dituliskan di sisi luar kotak seperti gambar
+      di atas    Kata apa yang disimpan dalam kotak ajaib tersebut?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: fddc2c91fecebab4895881c3cff45a8e, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - BOONG
+    - SOTONG
+    - TICKET
+    - WINNER
+    correctAns: WINNER

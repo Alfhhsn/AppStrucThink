@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EasyHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Easy
+  questions:
+  - questionInfo: Setiap tombol ditekan 1 kali, warna akan berpindah seperti pada
+      gambar.Jika tombol ditekan 5 kali mana posisi warna yang tepat sekarang?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 68c339131d0413b48a1139d11fb4a435, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Kuning, Biru, Merah, Hijau
+    - Biru, Merah, Hijau, Kuning
+    - Merah, Hijau, Kuning, Biru
+    - Hijau, Kuning, Biru, Merah
+    correctAns: Biru, Merah, Hijau, Kuning
+  - questionInfo: Sebuah keluarga berang-berang punya 3 HP. kebetulan semua baterainya
+      sedang habis. Keluarga tersebut hanya punya 2 charger yang dapat dipakai untuk
+      semua HP. Untuk mengisi baterai kosong sampai penuh dibutuhkan 2 jam. Berapa
+      waktu minimal yang dibutuhkan untuk mengisi ketiga HP tersebut sampai penuh
+      ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 5d01b26ee31581e4f9bb9753f2d28ca4, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 1 Jam
+    - 2 Jam
+    - 3 Jam
+    - 4 Jam
+    correctAns: 3 Jam
+  - questionInfo: Terdapat dua jenis anjing yang berbaris seperti tampak dalam gambar
+      di atas.    Suatu pertukaran tempat dapat terjadi antara dua anjing yang berdiri
+      bersebelahan. Akan dilakukan beberapa kali pertukaran tempat, sehingga tiga
+      anjing besar akan berdiri dalam tiga posisi yang bersebelahan. Berapakah banyaknya
+      pertukaran sesedikit mungkin yang diperlukan?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ec0ffb79c5306ed4681f592eb6db47dd, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 7
+    - 8
+    - 6
+    - 5
+    correctAns: 6
+  - questionInfo: 6 orang anak sedang berlari di lapangan, kemudian ada 1 anak melempar
+      bola dan memecahkan kaca dan kabur. Si guru hanya melihat anak tersebut dari
+      belakang, ia mengenakan baju merah dan memiliki rambut hitam pendek.  Siapa
+      anak yang memecahkan kaca itu?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1d4ede00791e0e64e8e19749a3b4e895, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - John
+    - Dan
+    - Anne
+    - Tom
+    correctAns: John
+  - questionInfo: Seekor cacing sedang duduk di ujung cabang sebuah pohon apel. Ia
+      ingin makan semua apel yang ada lewat dahan pohon. Setiap bagian dahan, panjangnya
+      1 meter.    Berapa meter lintasan terpendek yang harus dilewati cacing untuk
+      bisa makan semua apel yang ada ?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9f02babec83fe3f4491faab8768a3225, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 4
+    - 15
+    - 9
+    - 13
+    correctAns: 13
